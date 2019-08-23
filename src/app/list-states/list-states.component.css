@@ -1,0 +1,21 @@
+* {
+  font-family: verdana;
+}
+.page  {
+  display: flex;
+  justify-content: center;
+}
+section {
+  max-width: 1024px;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 20px;
+}
+.flex-wrap {
+  display: flex;
+  float: left;
+}
+.flex-wrap div {
+  padding: 5%;
+  width: 230px;
+}
